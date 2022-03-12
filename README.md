@@ -1,16 +1,20 @@
-### Hi there 👋
+<h3 align="center">H He Li Be B C N O F Ne Na Mg Al Si P S Cl Ar K Ca</h3>
+<h3 align="center">Hi!Here is wzp's GitHub !</h3>
 
-<!--
-**Wzp-2008/Wzp-2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#
+<img src="https://github-readme-stats.vercel.app/api?username=Wzp-2008&show_icons=true">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  I’m currently working on
+  - <a target="_blank" href="https://github.com/Wzp-2008/witsTalk/">witsTalk</a> 
+  - <a target="_blank" href="https://github.com/XinSin-top/witsTalk/">witsTalk</a> 
+-  I’m currently learning
+  - Minecraft
+    - Forge
+    - Fabric
+    - Zenscript
+    - crafttwaker
+    - modpack make
+  - spring cloud
+  - python based
+-  I’m looking to collaborate on
+  - open source vue
