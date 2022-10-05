@@ -6,7 +6,6 @@
 
 -  I’m currently working on
   - <a target="_blank" href="https://github.com/Wzp-2008/witsTalk/">witsTalk</a> 
-  - <a target="_blank" href="https://github.com/XinSin-top/witsTalk/">witsTalk</a> 
 -  I’m currently learning
   - Minecraft
     - Forge
