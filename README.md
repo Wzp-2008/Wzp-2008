@@ -6,6 +6,7 @@
 
 -  I’m currently working on
   - <a target="_blank" href="https://github.com/Wzp-2008/witsTalk/">witsTalk</a> 
+  - <a target="_blank" href="https://github-readme-stats.vercel.app/api/top-langs/?username=Wzp-2008&layout=compact&hide=html,css,less,scss&langs_count=8&theme=tokyonight&hide_title=true" />
 -  I’m currently learning
   - Minecraft
     - Forge
