@@ -7,7 +7,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Wzp-2008&show_icons=true">
 
 ## 🎯 喜欢
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wzp-2008&layout=compact&hide=html,css,less,scss&langs_count=8&theme=tokyonight&hide_title=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wzp-2008&layout=compact&hide=html,css,less,scss&langs_count=8&theme=tokyonight&hide_title=true">
 
 ### 语言和语言库
 ![Java](https://img.shields.io/badge/JAVA-red?style=for-the-badge&logo=java&logoColor=white)
