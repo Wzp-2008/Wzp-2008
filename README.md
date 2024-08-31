@@ -46,6 +46,7 @@
             <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
             <img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" />
             <img src="https://img.shields.io/badge/-postman-orange?style=for-the-badge&logo=postman&logoColor=white" />
+            <img src="https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github"/>
         </div>
     </div>
 </div>
